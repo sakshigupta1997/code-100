@@ -21,4 +21,4 @@ while(beg<=end):
 if(flag==0):
     print("item not found")
 else:
-    print("item found")
+    print("item found",item,"at",mid)
