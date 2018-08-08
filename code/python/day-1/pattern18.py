@@ -1,25 +1,27 @@
 '''program to pattern of diamond but without taking an input from user
 using five loop
-      *
-     ***
-    *****
-   *******
-  *********
- ***********
- ***********
-  *********
-   *******
-    *****
-     ***
-      *    '''
+     *
+    ***
+   *****
+  *******
+ *********
+***********
+***********
+ *********
+  *******
+   *****
+    ***
+     *
+
+        '''
    
 p=6
 m=5
-y=1
+y=0
 for i in range(0,12):
     if(i<=5):
         
-        for j in range(p,0,-1):
+        for j in range(p,1,-1):
             print(" ",end='')
         for k in range(2*i+1):
             print("*",end='')
