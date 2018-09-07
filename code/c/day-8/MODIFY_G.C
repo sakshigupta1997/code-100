@@ -9,6 +9,7 @@ scanf("%d%d",&m,&n);
 c=min(m,n);
 for(i=c;i>0;i--)
 {
+  
 if(m%i==0 && n%i==0)
 mrcf=i;
 }
