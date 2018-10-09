@@ -4,7 +4,7 @@ void main()
 {
 int n,i,result=1;
 printf("enter the value of n");
-scanf("%d",&n);
+scanf("%d",&n);  
 if(n==0)
 {
 printf("factorial is 1");
