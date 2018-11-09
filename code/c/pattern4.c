@@ -14,7 +14,7 @@ void main()
       printf("%d",l);
       l++;
     }
-    m++;
+    m++;  
     printf("\n");
   }
       
