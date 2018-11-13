@@ -11,7 +11,7 @@ void main()
     }  
     for(k=0;k!=i;k++)
     {  
-      printf("%d",l);
+      printf("%d",l);  
       l++;
     }
     m++;  
