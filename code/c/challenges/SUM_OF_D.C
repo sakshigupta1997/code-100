@@ -16,3 +16,4 @@ n=n/10;
 printf("sum of digit of number %d is %d",p,sum);
 getch();
 }  
+  
