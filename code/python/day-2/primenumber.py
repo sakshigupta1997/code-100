@@ -9,5 +9,5 @@ for i in range(2,number):
 if(flag==0):
     print("number",number,"is prime")
 else:
-    print("number",number,"is  not prime")
+    print("number",number,"is  not prime")  
               
