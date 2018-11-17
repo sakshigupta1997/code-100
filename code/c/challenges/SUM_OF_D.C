@@ -11,7 +11,7 @@ while(n!=0)
 {
 rem=n%10;
 sum=sum+rem;
-n=n/10;
+n=n/10;  
 }
 printf("sum of digit of number %d is %d",p,sum);
 getch();
