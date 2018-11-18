@@ -6,7 +6,7 @@ int n,p,rem,sum=0;
 clrscr();
 printf("enter a number"); 
 scanf("%d",&n);
-p=n;
+p=n;  
 while(n!=0)
 {
 rem=n%10;
