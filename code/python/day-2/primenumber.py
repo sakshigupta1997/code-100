@@ -10,4 +10,4 @@ if(flag==0):
     print("number",number,"is prime")
 else:
     print("number",number,"is  not prime")  
-              
+                
