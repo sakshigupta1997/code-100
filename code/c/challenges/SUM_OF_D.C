@@ -13,7 +13,7 @@ rem=n%10;
 sum=sum+rem;  
 n=n/10;  
 }
-printf("sum of digit of number %d is %d",p,sum);
+printf("sum of digit of number %d is %d",p,sum); 
 getch();
 }  
   
