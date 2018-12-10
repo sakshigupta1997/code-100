@@ -3,7 +3,7 @@ For Javascript coders, here is the day-2 code ideas.
 # Beginner level
 
 1. Write a program to find the LCM and HCF of 4 given numbers.
-2. Write a program to store grocery list into a text file and to fetch grocery items from file.
+2. Write a program to store grocery list into a text file and to fetch grocery items from file.  
 
 Sample Grocery list
 Flour => 10 KG
