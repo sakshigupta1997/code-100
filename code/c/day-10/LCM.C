@@ -4,7 +4,7 @@
 void main()
 {
 int number1,number2,i=2,p=1;
-clrscr();
+clrscr();   
 printf("enter the two number");
 scanf("%d%d",&number1,&number2);
 while(number1!=1||number2!=1)
