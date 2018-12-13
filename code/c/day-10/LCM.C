@@ -1,6 +1,6 @@
 /*program to find the lcm of two number*/
 #include<stdio.h>
-#include<conio.h>
+#include<conio.h> 
 void main()
 {
 int number1,number2,i=2,p=1;
