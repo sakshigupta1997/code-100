@@ -11,7 +11,7 @@ while  number>0 :
         
 if ( c==temp):
     
-        print("number",temp,"is palindrome number")
+        print("number",temp,"is palindrome number")  
         
 else:
         
