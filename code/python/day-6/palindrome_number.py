@@ -4,7 +4,7 @@ temp=number
 rem=0
 c=0
 while  number>0 :
-    rem = int(number%10)
+    rem = int(number%10)   
     number=int(number/10)    
     c =int((c*10)+rem)
     
