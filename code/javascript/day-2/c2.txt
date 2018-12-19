@@ -1,7 +1,7 @@
 For Javascript coders, here is the day-2 code ideas.
 
 // Beginner level
-
+   
 1. Cover celsius to Fahrenheit.
 2. Reverse a string without using string function.
   
