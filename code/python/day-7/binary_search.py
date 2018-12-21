@@ -7,7 +7,7 @@ print(y)
 beg=0
 end=number-1
 item=int(input("enter the item you want to searched"))
-while(beg<=end):
+while(beg<=end):  
     
     mid=int((beg+end)/2)
     if(item==y[mid]):
